@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.venv/
+env/
+.uv/
+.python-version
+uv.lock
+*.log
+.DS_Store
